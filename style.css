@@ -6,6 +6,8 @@ h3 {text-align: center;text-decoration: underline;}
 
 footer {text-align: center;}
 
+
+/* Sham Css Dateien */
 .box{
     margin-top: 5rem !important;
     margin-left: 5rem !important;}
@@ -16,9 +18,9 @@ footer {text-align: center;}
         float:right;
         font-style: italic;
     }
-
+/* Sprotte Media@ Test */
     @media screen and (min-width: 1880px) {
   .mediabox {display: flex;
 
-flex-direction: column;}    
+  flex-direction: column;}    
       }
