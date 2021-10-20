@@ -1,13 +1,14 @@
+/* Schriftart Googel-fonts */
 p {font-family: 'Macondo', cursive;font-size: 1.1rem;}
-
+/* H3 Überschrift mittig und unterstrichen */
 h3 {text-align: center;text-decoration: underline;}
-
+/* Überschrift für die Rom html */
 .überschrift {text-align: center;}
-
+/* Footer mittig gesetzt */
 footer {text-align: center;}
 
 
-/* Sham Css Dateien */
+/* Sham Css Dateien für Piemont html */
 .box{
     margin-top: 5rem !important;
     margin-left: 5rem !important;}
@@ -18,9 +19,9 @@ footer {text-align: center;}
         float:right;
         font-style: italic;
     }
-/* Sprotte Media@ Test */
+/* Sprotte Media@ Test 
     @media screen and (min-width: 1880px) {
   .mediabox {display: flex;
 
   flex-direction: column;}    
-      }
+      }*/
