@@ -9,3 +9,9 @@ footer {text-align: center;}
 .box{
     margin-top: 5rem !important;
     margin-left: 5rem !important;}
+
+    @media screen and (min-width: 1880px) {
+  .mediabox {display: flex;
+
+flex-direction: column;}    
+      }
