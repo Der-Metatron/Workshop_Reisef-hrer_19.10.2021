@@ -2,3 +2,14 @@ p {font-family: 'Macondo', cursive;font-size: 1rem;}
 .überschrift {text-align: center;}
 
 footer {text-align: center;}
+.box{
+    margin-top: 5rem !important;
+    margin-left: 5rem !important;
+   
+}
+.aside-Sham{
+    width:45%;
+    font-size: 20px;
+    float:right;
+    font-style: italic;
+}
