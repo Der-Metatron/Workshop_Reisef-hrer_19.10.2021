@@ -30,9 +30,3 @@ footer {text-align: center;}
         float:right;
         font-style: italic;
     }
-/* Sprotte Media@ Test 
-    @media screen and (min-width: 1880px) {
-  .mediabox {display: flex;
-
-  flex-direction: column;}    
-      }*/
