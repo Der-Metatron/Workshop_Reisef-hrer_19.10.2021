@@ -1,0 +1,12 @@
+.bild{
+
+    transition:transform 0.01s;
+    transition: 0.5s ease-out;
+}
+
+ .bild:hover {
+        transform: scale(1.3, 1.3);
+}
+footer{
+    margin-left: 9rem;
+}
