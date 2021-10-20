@@ -10,6 +10,13 @@ footer {text-align: center;}
     margin-top: 5rem !important;
     margin-left: 5rem !important;}
 
+    .aside-Sham{
+        width:45%;
+        font-size: 20px;
+        float:right;
+        font-style: italic;
+    }
+
     @media screen and (min-width: 1880px) {
   .mediabox {display: flex;
 
